@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning computer and web stuff  
 - 📫 How to reach me: [E-Mail](mailto:6crxdrzwh@relay.firefox.com)  
 
----
-
-*[Click me for a random video](https://pigupp.github.io/random-video/)*  
-
 
 <!---
 pigupp/pigupp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
