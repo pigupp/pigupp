@@ -1,4 +1,4 @@
-![pigupp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigupp&show_icons=true&theme=transparent)
+![pigupp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigupp&show_icons=true&theme=dark)
 ![pigupp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigupp&theme=transparent&langs_count=8&layout=compact)  
 
 - 👋 Hi, I’m @pigupp  
