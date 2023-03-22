@@ -1,5 +1,5 @@
-![pigupp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigupp&show_icons=true&theme=dracula)
-![pigupp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigupp&theme=dracula&langs_count=8&layout=compact)  
+![pigupp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pigupp&show_icons=true&theme=transparent)
+![pigupp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigupp&theme=transparent&langs_count=8&layout=compact)  
 
 - 👋 Hi, I’m @pigupp  
 - 🌱 I’m currently learning computer and web stuff  
