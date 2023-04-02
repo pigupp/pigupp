@@ -12,4 +12,4 @@ pigupp/pigupp is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<div class="tenor-gif-embed" data-postid="17219304" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/skull-reaction-shark-reaction-skull-meme-funny-gif-17219304">Skull Reaction Shark Reaction GIF</a>from <a href="https://tenor.com/search/skull+reaction-gifs">Skull Reaction GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Skull Reaction](https://media.tenor.com/Ynri_0dB-1AAAAAC/skull-reaction-shark-reaction.gif)
