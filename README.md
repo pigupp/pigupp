@@ -3,7 +3,7 @@
 ---
 
 - 👋 Hi, I’m @pigupp  
-- 🌱 I’m currently learning computer and web stuff  
+- 🌱 I’m currently learning nothing
 - 📫 How to reach me: [E-Mail](mailto:6crxdrzwh@relay.firefox.com)  
 
 
